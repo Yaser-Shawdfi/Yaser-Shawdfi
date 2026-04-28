@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Yaser-Shawdfi/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Yaser-Shawdfi&color=E50012&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
