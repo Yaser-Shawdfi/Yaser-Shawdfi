@@ -12,15 +12,15 @@
 
 ### 🚀 Latest Projects
 <p align="center">
-  <a href="https://github.com/yjv01/hydra-steamunlocked">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yjv01&repo=hydra-steamunlocked&theme=tokyonight" />
+  <a href="https://github.com/Yaser-Shawdfi/Yaser-Shawdfi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yaser-Shawdfi&repo=Yaser-Shawdfi&theme=tokyonight" />
   </a>
 </p>
 
 ### 💻 Most Used Languages
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjv01&theme=tokyonight&hide_progress=false"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaser-Shawdfi&theme=tokyonight&hide_progress=false"/>
   </a>
 </p>
 
