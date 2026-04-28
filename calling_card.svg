@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="320" viewBox="0 0 650 320">
+  <defs>
+    <filter id="shadow">
+      <feDropShadow dx="3" dy="3" stdDeviation="2" flood-color="#000" flood-opacity="0.8"/>
+    </filter>
+  </defs>
+  
+  <!-- Outer Red Jagged Card -->
+  <polygon points="15,20 630,10 640,300 25,310" fill="#E50012" />
+  
+  <!-- Inner Black Jagged Box -->
+  <polygon points="35,40 610,30 620,280 45,290" fill="#000000" />
+  
+  <!-- Text Elements (Ransom Note Style) -->
+  <g transform="rotate(-2 325 160)">
+    <!-- Header -->
+    <text x="60" y="90" font-family="Impact, Arial Black, sans-serif" font-size="30" fill="#FFFFFF" letter-spacing="1">To the person visiting this profile...</text>
+    
+    <!-- Body -->
+    <text x="60" y="140" font-family="Courier New, monospace" font-size="22" fill="#E0E0E0">Your distorted desires and messy code</text>
+    <text x="60" y="170" font-family="Courier New, monospace" font-size="22" fill="#E0E0E0">have been exposed.</text>
+    
+    <!-- Threat -->
+    <text x="60" y="225" font-family="Impact, Arial Black, sans-serif" font-size="26" fill="#E50012">I WILL STEAL YOUR BUGS</text>
+    <text x="60" y="260" font-family="Impact, Arial Black, sans-serif" font-size="26" fill="#FFFFFF">AND REWRITE YOUR SYSTEM.</text>
+    
+    <!-- Signature -->
+    <rect x="365" y="240" width="220" height="40" fill="#E50012" />
+    <text x="375" y="268" font-family="Impact, Arial Black, sans-serif" font-size="24" fill="#FFFFFF" style="filter:url(#shadow);">- Yaser Shawdfi</text>
+  </g>
+</svg>
