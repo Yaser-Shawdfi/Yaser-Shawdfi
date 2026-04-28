@@ -25,10 +25,10 @@
 <h3 align="center">💻 Languages & Projects 🚀</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaser-Shawdfi&bg_color=0d1117&title_color=E50012&text_color=ffffff&icon_color=E50012&border_color=E50012&border_radius=0&hide_progress=false&layout=compact" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaser-Shawdfi&bg_color=0d1117&title_color=E50012&text_color=ffffff&icon_color=E50012&border_color=E50012&border_radius=0&hide_progress=false&layout=compact" />
   </a>
   <a href="https://github.com/Yaser-Shawdfi/Yaser-Shawdfi">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Yaser-Shawdfi&repo=Yaser-Shawdfi&bg_color=0d1117&title_color=E50012&text_color=ffffff&icon_color=E50012&border_color=E50012&border_radius=0" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Yaser-Shawdfi&repo=Yaser-Shawdfi&bg_color=0d1117&title_color=E50012&text_color=ffffff&icon_color=E50012&border_color=E50012&border_radius=0" />
   </a>
 </p>
 
