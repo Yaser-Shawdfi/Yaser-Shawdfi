@@ -1,10 +1,7 @@
 <div align="center">
   <img src="https://media.tenor.com/Z4wG4-oDhygAAAAi/persona-5-phantom-thieves.gif" width="150" />
-  <h2>✉️ <b>Calling Card</b></h2>
-  <i>To the person visiting this profile...<br><br>
-  Your distorted desires and messy code have been exposed.<br>
-  I will steal your bugs and rewrite your system without mercy.<br><br>
-  <b>— The Phantom Developer, Yaser Shawdfi</b></i>
+  <br>
+  <img src="https://raw.githubusercontent.com/Yaser-Shawdfi/Yaser-Shawdfi/main/calling_card.svg" alt="Calling Card" />
 </div>
 
 <br>
