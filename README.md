@@ -13,7 +13,7 @@
 <h3 align="center">🔥 GitHub Stats & Streaks 🔥</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yaser-Shawdfi&show_icons=true&bg_color=0d1117&title_color=E50012&text_color=ffffff&icon_color=E50012&border_color=E50012&border_radius=0&include_all_commits=true&count_private=true&ring_color=E50012" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Yaser-Shawdfi&show_icons=true&bg_color=0d1117&title_color=E50012&text_color=ffffff&icon_color=E50012&border_color=E50012&border_radius=0&ring_color=E50012" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaser-Shawdfi&background=0d1117&border=E50012&stroke=E50012&ring=E50012&fire=E50012&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=E50012&sideLabels=ffffff&dates=cccccc&hide_border=false&border_radius=0" />
