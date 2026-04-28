@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Yaser Shawdfi</h1>
+<div align="center">
+  <img src="https://media.tenor.com/Z4wG4-oDhygAAAAi/persona-5-phantom-thieves.gif" width="150" />
+  <h2>✉️ <b>Calling Card</b></h2>
+  <i>To the person visiting this profile...<br><br>
+  Your distorted desires and messy code have been exposed.<br>
+  I will steal your bugs and rewrite your system without mercy.<br><br>
+  <b>— The Phantom Developer, Yaser Shawdfi</b></i>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E50012&width=435&lines=Software+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yaser-Shawdfi&color=E50012&style=for-the-badge&label=PROFILE+VIEWS" />
