@@ -10,10 +10,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🚀 Latest Projects
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yaser-Shawdfi&theme=tokyonight&margin-w=15&margin-h=15&column=7" alt="Yaser-Shawdfi" />
+  <a href="https://github.com/yjv01/hydra-steamunlocked">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yjv01&repo=hydra-steamunlocked&theme=tokyonight" />
   </a>
 </p>
 
