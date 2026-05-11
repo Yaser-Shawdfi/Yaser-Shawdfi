@@ -10,7 +10,7 @@
 {
   "name": "Yaser-Shawdfi",
   "education": "Arab Academy for Science, Technology and Maritime Transport",
-  "focus": "AI in Medical Engineering",
+  "focus": ["Med Tech", "Computer Vision", "Data Science & Engineering", "MLOps"],
   "current_learning": ["Deep Learning for Healthcare", "Advanced Knowledge Graphs"],
   "hobbies": ["Coding", "Problem Solving", "AI Research"]
 }
