@@ -2,6 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Yaser-Shawdfi;AI+in+Medical+Engineering;Machine+Learning+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yaser-Shawdfi&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-F56565?style=flat" alt="Resume" />
+  </a>
+  <a href="mailto:paiawon@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 <br/>
 
 ### 👨‍💻 About Me
