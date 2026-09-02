@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yaser-Shawdfi&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views" />
-  <a href="#">
+  <a href="https://github.com/Yaser-Shawdfi/Yaser-Shawdfi/raw/main/Yaser_Salah_ElDin_CV.pdf">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-F56565?style=flat" alt="Resume" />
   </a>
   <a href="mailto:YaserSalah00@outlook.com">
